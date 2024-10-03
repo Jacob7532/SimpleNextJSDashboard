@@ -1,5 +1,7 @@
 # Blockhouse Technical Assignment using Next.js Dashboard with Django Backend
 
+This was an assignment I was required to complete based off of some requirments given to me from the Blockhouse CEO to complete as a technical interview
+
 ## Setup Instructions
 
 ### Prerequisites
