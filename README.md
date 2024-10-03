@@ -9,12 +9,11 @@
 ### Running the Application
 
 1. Unzip folder
-   ```
 
 2. Build and start the Docker containers:
    ```
    docker-compose build
-   ```
+   
    docker-compose up
    ```
 
